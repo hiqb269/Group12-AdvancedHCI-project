@@ -1,5 +1,7 @@
-# Spatial Unity SDK Starter Template
+# Group 12 - Advanced HCI Project
 
-A template to get you started building environments for Spatial.
+Spatial creator toolkit - 
+3D object from SketchFab. 
+Testing in Spatial Sandbox
 
 Read more here: https://docs.spatial.io
