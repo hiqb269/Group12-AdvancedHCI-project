@@ -3,9 +3,13 @@ This Unity project is built using the Spatial Creator Toolkit. It features a spa
 
 ## Features
 3D Models: Imported from Sketchfab.
+
 Sound Effects: Sourced from Pixabay.
+
 Spatial Triggers: Used to play audio cues.
+
 Testing: Can be tested in the Spatial Sandbox.
+
 Publishing: Can be published on Spatial.
 
 ## Experiment setup:
@@ -30,6 +34,7 @@ https://sketchfab.com/3d-models/dusty-path-in-the-fields-1386c844619e4006a916383
 
 "Broken Vase // LOWPOLY" (https://skfb.ly/oFKzE)  by Vlasov Daniil is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/). 
 https://sketchfab.com/3d-models/broken-vase-lowpoly-6e0f182f408143a3be6381ef02cadddf 
+
 Pixabay Audio: Download and import sound effects from Pixabay.
 https://pixabay.com/sound-effects/birds-chirping-241045/ 
 Free for use under the Pixabay Content License
@@ -59,8 +64,10 @@ Publish Scene:
 Click the Publish button in the Unity toolbar to open the Spatial Portal.
 Click Publish to upload the project to Spatial.
 Monitor the publishing status in Spatial Studio.
-Source Code and Version Control
+
+## Source Code and Version Control
 Source Code: https://github.com/hiqb269/Group12-AdvancedHCI-project
+
 Published version:. https://www.spatial.io/s/HCIWalkingPath-66f77265c49a36d6cb2cf9c9?share=4156219902008613463
 
 Additional Resources
