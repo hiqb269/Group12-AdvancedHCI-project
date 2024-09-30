@@ -53,32 +53,40 @@ Free for use under the Pixabay Content License
 Follow the installation guide at Spatial Creator Toolkit Installation.  
 
 **Log Into Spatial Account**  
-1.In Unity, click on the Spatial SDK tab in the header.    
-2.Select Account to open the Spatial Portal window.  
-3.Click on Get Login Token, which will redirect you to your browser.  
-4.Copy the login token from your browser and return to Unity.  
-5.Click on Paste Login Token in the Spatial Portal window to log in.  
+1. In Unity, click on the Spatial SDK tab in the header.    
+2. Select Account to open the Spatial Portal window.  
+3. Click on Get Login Token, which will redirect you to your browser.  
+4. Copy the login token from your browser and return to Unity.  
+5. Click on Paste Login Token in the Spatial Portal window to log in.  
 
 **Functionality**  
-a. Broken vases are placed on the path where the avatar walks from point A to point B.  
-b. Audio cues are trigged to play when the avatar walks through the broken vases.  
-c. Ambient sound plays throughout when the avatar is inside the scene.   
+1. Broken vases are placed on the path where the avatar walks from point A to point B.  
+2. Audio cues are trigged to play when the avatar walks through the broken vases.  
+3. Ambient sound plays throughout when the avatar is inside the scene.  
+4. Assets\Scenes\DirthPathScene-NoAudio.unity for the scene without audio cues.  
+5. Assets\Scenes\DirtyPathScene.unity for the scene with audio cues.  
 
 **Running the Project**  
 _1. Testing in Spatial Sandbox_  
-a. Open the project in Unity and ensure all assets are correctly imported.  
-b. Click the Test Scene button in the Unity toolbar to upload the scene to the Spatial Sandbox.  
-c. The scene will automatically open in your web browser for testing.  
 
-_2.Publishing on Spatial_  
-a. Click the Publish button in the Unity toolbar to open the Spatial Portal.  
-b. Click Publish to upload the project to Spatial.  
-c. Monitor the publishing status in Spatial Studio.  
+    a. Open the project in Unity and ensure all assets are correctly imported.  
+    b. Click the Test Scene button in the Unity toolbar to upload the scene to the Spatial Sandbox.  
+    c. The scene will automatically open in your web browser for testing.  
+
+_2. Publishing on Spatial_  
+
+    a. Click the Publish button in the Unity toolbar to open the Spatial Portal.  
+    b. Click Publish to upload the project to Spatial.  
+    c. Monitor the publishing status in Spatial Studio.  
 
 ## Source Code and Version Control
 Source Code: [Github repository] (https://github.com/hiqb269/Group12-AdvancedHCI-project)
 
-Published version:[HCI project walking path] (https://www.spatial.io/s/HCIWalkingPath-66f77265c49a36d6cb2cf9c9?share=4156219902008613463)
+Published version:  
+[HCIWalkingPath] (https://www.spatial.io/s/HCIWalkingPath-66f77265c49a36d6cb2cf9c9?share=4156219902008613463)  
+[HCI WalkingPath_NoCues] (https://www.spatial.io/s/HCI-WalkingPath_NoCues-66fa34a6c49a36d6cb2cfa15?share=8130704535378550778)  
+
+                
 
 **Additional Resources**  
 Spatial Creator Toolkit Documentation: [Spatial Docs](https://toolkit.spatial.io/)  
