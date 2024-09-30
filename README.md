@@ -15,9 +15,9 @@ Publishing: Can be published on Spatial.
 ## Experiment setup:
 
 ### Requirements:
-Unity: Version 2021.3.21f1 (LTS) with WebGL Build Support module.
-Spatial Account: Create a free account at Spatial.io.
-Spatial Creator Toolkit: Download from Spatial Creator Toolkit.
+Unity: Version 2021.3.21f1 (LTS) with WebGL Build Support module.  
+Spatial Account: Create a free account at Spatial.io.  
+Spatial Creator Toolkit: Download from Spatial Creator Toolkit.  
 
 ### Setup Steps
 
@@ -29,7 +29,7 @@ Install Unity 2021.3.21f1 (LTS) with the WebGL Build Support module.
 Download the starter template from Spatial Starter Template.
 Extract the .zip archive and open the project in Unity Hub.
 
-**Import Assets:**
+**Import Assets:**  
 _Sketchfab Models_: 
 Download and import 3D models from Sketchfab.
 
@@ -60,20 +60,20 @@ Follow the installation guide at Spatial Creator Toolkit Installation.
 5.Click on Paste Login Token in the Spatial Portal window to log in.  
 
 **Functionality**  
--Broken vases are placed on the path where the avatar walks from point A to point B.  
--Audio cues are trigged to play when the avatar walks through the broken vases.  
--Ambient sound plays throughout when the avatar is inside the scene.   
+a. Broken vases are placed on the path where the avatar walks from point A to point B.  
+b. Audio cues are trigged to play when the avatar walks through the broken vases.  
+c. Ambient sound plays throughout when the avatar is inside the scene.   
 
 **Running the Project**  
 _1. Testing in Spatial Sandbox_  
-a.Open the project in Unity and ensure all assets are correctly imported.  
-b.Click the Test Scene button in the Unity toolbar to upload the scene to the Spatial Sandbox.  
-c.The scene will automatically open in your web browser for testing.  
+a. Open the project in Unity and ensure all assets are correctly imported.  
+b. Click the Test Scene button in the Unity toolbar to upload the scene to the Spatial Sandbox.  
+c. The scene will automatically open in your web browser for testing.  
 
 _2.Publishing on Spatial_  
-a.Click the Publish button in the Unity toolbar to open the Spatial Portal.  
-b.Click Publish to upload the project to Spatial.  
-c.Monitor the publishing status in Spatial Studio.  
+a. Click the Publish button in the Unity toolbar to open the Spatial Portal.  
+b. Click Publish to upload the project to Spatial.  
+c. Monitor the publishing status in Spatial Studio.  
 
 ## Source Code and Version Control
 Source Code: [Github repository] (https://github.com/hiqb269/Group12-AdvancedHCI-project)
