@@ -2,7 +2,8 @@
 This Unity project is built using the Spatial Creator Toolkit. It features a space where an avatar navigates through a path encountering hazardous objects like broken vases. The project explores how auditory cues simulate perception of discomfort in VR environments and their impact on user engagement and embodied interaction.
 
 ## Protocol Documentation   
-The protocol implementation document is available in the Protocol Documentation in this repository Protocol\Protocol and Implementation.pdf
+The protocol implementation document is available in the Protocol Documentation in this repository.  
+[Protocol\Protocol and Implementation.pdf] (https://github.com/hiqb269/Group12-AdvancedHCI-project/blob/main/Protocol/Protocol%20and%20Implementation.pdf)
 
 ## Features
 3D Models: Imported from Sketchfab.
